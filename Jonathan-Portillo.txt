@@ -81,8 +81,8 @@ Stretch Questions
     2. What happens when an element is positioned absolutely? 
     Lets you place an element exactly where you want it. 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-    You use the box model.
+    Display an inline block. 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     For block elements: h1, header, footer. For inline elements: img, a. For inline-block: li
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
-    Its a box that surrounds every element. The content is always the fix for the box model. We make all elements respect the width by providing values to padding, border, and margin. 
+The box model is an invisible box that surrounds every element. We can make all the elements respect the width we give them by using box sizing.     
